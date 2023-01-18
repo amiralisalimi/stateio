@@ -1,0 +1,14 @@
+.vscode
+notes.txt
+*~
+
+Makefile
+build/
+*.bin
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+cmake_uninstall.cmake
